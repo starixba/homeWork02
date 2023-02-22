@@ -9,6 +9,7 @@ public class taske2 {
     int secretNumber = random.nextInt(9999);
     for(int i = 1; i < 3; i++){
       System.out.println("Please put 4 digits number");
+      System.out.println("Hello World");
     }
   }
 }
