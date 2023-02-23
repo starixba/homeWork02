@@ -1,1 +1,1 @@
-System.out.println("Hello World");
+This is the second week homework.
