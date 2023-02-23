@@ -1,1 +1,1 @@
-This is the second week homework.
+I will be posting homework and task every weekend.
